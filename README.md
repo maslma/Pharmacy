@@ -1,6 +1,6 @@
 # pharmacy
 
-A new Flutter project.
+Flutter ui, Animation, Dart, Firebase.
 
 ## Getting Started
 
