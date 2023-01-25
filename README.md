@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app helps to list and see different medicine categories. This
+also helps to add medicine product . You can also add cart the
+medicine . and know the location of the pharmacy.
 
 A few resources to get you started if this is your first Flutter project:
 
